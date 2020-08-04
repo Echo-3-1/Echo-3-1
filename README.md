@@ -3,9 +3,9 @@
     <br>
     Hi, I'm God, a passionate self-taught backend developer from <a href="https://www.google.com/maps/search/?api=1&query=West+Bengal,India">West Bengal, India. Not to be mentioned I'm trash at front end</a>
     <hr>
-<body>
-<p>* **🥰🥰 I am mainly a Typescript/Javascript Developer but I am also actively learning kotlin and python 🥰🥰**<\p>
-</body>
+<h4>
+* **🥰🥰 I am mainly a Typescript/Javascript Developer but I am also actively learning kotlin and python 🥰🥰 **
+</h4>
     <img src="https://github-readme-stats.vercel.app/api?username=IamGoDsoIamBest&show_icons=true&theme=tokyonight&hide_border=true">
 
 ---
