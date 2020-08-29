@@ -6,6 +6,7 @@
 <h4>
 🥰🥰 I am mainly a Typescript/Javascript Developer but I am also actively learning kotlin and python 🥰🥰
 </h4>
+    <h5> Founder and Head Developer of [EvolveJS](https://github.com/EvolveJS) and currently working on it so check it out pls!</h5>
     <img src="https://github-readme-stats.vercel.app/api?username=IamGoDsoIamBest&show_icons=true&theme=tokyonight&hide_border=true">
 
 ---
