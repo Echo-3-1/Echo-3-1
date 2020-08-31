@@ -7,9 +7,9 @@
 🥰🥰 I am mainly a Typescript/Javascript Developer but I am also actively learning kotlin and python 🥰🥰
 </h4>
     <h5> Founder and Head Developer of [EvolveJS](https://github.com/EvolveJS) and currently working on it so check it out pls!</h5>
-    <img src="https://github-readme-stats.vercel.app/api?username=RoMeAh&show_icons=true&theme=tokyonight&hide_border=true">
+    <img src="https://github-readme-stats.vercel.app/api?username=Echo-3-1&show_icons=true&theme=tokyonight&hide_border=true">
 
 ---
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RoMeAh&theme=tokyonight">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Echo-3-1&theme=tokyonight">
 </div>
